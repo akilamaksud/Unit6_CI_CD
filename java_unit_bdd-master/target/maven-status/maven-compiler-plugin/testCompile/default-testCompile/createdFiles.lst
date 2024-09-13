@@ -1,0 +1,15 @@
+stepdefinitions\JavaScriptAlertPageSteps.class
+stepdefinitions\DataTableSteps.class
+constants\MainPageNavigation.class
+pages\JavaScriptAlertsPage.class
+stepdefinitions\BrowserSteps.class
+runners\TestRunner.class
+utils\StringUtils.class
+models\DataTableData.class
+utils\SettingsTestData.class
+models\EnvData.class
+pages\MainPage.class
+pages\DataTablesPage.class
+stepdefinitions\MainPageSteps.class
+hooks\Hooks.class
+constants\LocatorConstants.class
